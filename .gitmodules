@@ -1,0 +1,3 @@
+[submodule "octree"]
+	path = octree
+	url = https://github.com/jbehley/octree.git
